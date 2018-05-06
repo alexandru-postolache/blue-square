@@ -1,0 +1,29 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\GameController.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Spawner.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Movement.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\RepeatLateralBounds.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CameraFollow.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\BackgroundLoop.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CleanOffBoundsObjects.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\FacebookSDK.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Sound.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\SoundManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\AdManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CameraScaler.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\BackgroundChanger.cs" Line="1" Column="1" />
+      <File FileName="Assets\UnityAndroidExtraPlugins\Assets\UnityAndroidExtras\Demo\Scripts\Demo.cs" Line="1" Column="1" />
+      <File FileName="Assets\UnityAndroidExtraPlugins\Assets\UnityAndroidExtras\Demo\Scripts\UnityAndroidExtras.cs" Line="1" Column="1" />
+      <File FileName="Assets\dreamlo\dreamloLeaderBoard.cs" Line="1" Column="1" />
+      <File FileName="Assets\dreamlo\README_FIRST.txt" Line="1" Column="1" />
+      <File FileName="Assets\Plugins\Android\AndroidManifest.xml" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
